@@ -8,7 +8,7 @@ const Home = () => {
       <div className="flex flex-col md:gap-0 gap-3">
         <div className="flex md:flex-row-reverse w-full lg:h-screen  md:gap-5 md:pt-0 pt-[15%] md:h-[700px]  relative h-[400px]">
             <div className="md:w-full w-full md:relative">
-              <img className="md:absolute w-full absolute z-0 md:block" src="/public/img/konten/Bg-Video.png" alt="" />
+              <img className="md:absolute w-full absolute z-0 md:block" src="/img/konten/Bg-Video.png" alt="" />
             </div>
          
           <div className="lg:w-[50%]  absolute md:relative w-full z-10 flex flex-col justify-center md:pl-10 lg:pl-44 bg-white bg-opacity-40">
@@ -30,7 +30,7 @@ const Home = () => {
         </div>
 
         <div className="flex lg:flex-row flex-col gap-3 w-full lg:px-40 md:px-10 px-5 bg-primary py-5 justify-center items-center lg:h-screen h-full">
-          <img className="md:w-[40%] w-full" src="/public/img/konten/program.png" alt="" />
+          <img className="md:w-[40%] w-full" src="/img/konten/program.png" alt="" />
           <div className="lg:w-[60%] w-full">
             <h1 className="text-white text-3xl font-bold md:block hidden">Program Kami</h1>
             <p className="text-white md:py-6 py-2 text-center md:text-left">Kami memiliki program-program yang bertujuan untuk meningkatkan kualitas hidup masyarakat di Kabupaten Bogor dan Jawa Barat</p>
@@ -78,22 +78,22 @@ const Home = () => {
             <p className="py-6">Kami memiliki kemitraan dengan berbagai instansi dan perusahaan yang mendukung program-program kami</p>
             {/* div grid col-6 */}
             <div className="grid lg:grid-cols-6 grid-cols-3 gap-3  lg:gap-1 md:gap-5 md:px-20 items-center justify-center">
-              <img className="lg:w-full" src="/public/img/partnership/pt1.png" alt="" />
-              <img className="lg:w-[80%]" src="/public/img/partnership/pt2.png" alt="" />
-              <img className="lg:w-[80%] " src="/public/img/partnership/pt3.svg" alt="" />
-              <img className="lg:w-[80%] " src="/public/img/partnership/pt4.svg" alt="" />
-              <img className="lg:w-[80%] " src="/public/img/partnership/pt5.webp" alt="" />
-              <img className="lg:w-[80%] " src="/public/img/partnership/pt6.png" alt="" />
-              <img className="lg:w-[80%] " src="/public/img/partnership/Bef.png" alt="" />
-              <img className="lg:w-[100%] " src="/public/img/partnership/pt8.png" alt="" />
-              <img className="lg:w-[100%] " src="/public/img/partnership/pt9.jpg" alt="" />
+              <img className="lg:w-full" src="/img/partnership/pt1.png" alt="" />
+              <img className="lg:w-[80%]" src="/img/partnership/pt2.png" alt="" />
+              <img className="lg:w-[80%] " src="/img/partnership/pt3.svg" alt="" />
+              <img className="lg:w-[80%] " src="/img/partnership/pt4.svg" alt="" />
+              <img className="lg:w-[80%] " src="/img/partnership/pt5.webp" alt="" />
+              <img className="lg:w-[80%] " src="/img/partnership/pt6.png" alt="" />
+              <img className="lg:w-[80%] " src="/img/partnership/Bef.png" alt="" />
+              <img className="lg:w-[100%] " src="/img/partnership/pt8.png" alt="" />
+              <img className="lg:w-[100%] " src="/img/partnership/pt9.jpg" alt="" />
             </div>
           </div>
         </div>
 
         <div className="flex md:px-40 px-5 py-5 mt-10 gap-5 lg:flex-row flex-col lg:h-screen items-center bg-primary bg-opacity-15">
           <div className="lg:w-[70%] w-full  flex lg:flex-row flex-col lg:text-left text-center gap-5 items-center">
-            <img className="w-[50%] object-contain" src="/public/img/konten/addres.png" alt="" />
+            <img className="w-[50%] object-contain" src="/img/konten/addres.png" alt="" />
             <div>
               <h1 className="text-primary text-3xl font-bold">Head Quarter </h1>
               <p className="py-2">Jl. Tegar Beriman Perum. Graha Kartika Pratama Blok D2 No.23 Kel. Bojong Baru Kec. Bojong Gede Kabupaten Bogor</p>

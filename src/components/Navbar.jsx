@@ -23,7 +23,7 @@ const Navbar = () => {
       <nav className={`w-full md:h-20 h-14 font-semibold  ${scrollNav ? 'bg-white shadow-md text-primary ' : 'md:bg-transparent md:shadow-none text-primary shadow-md bg-white'} flex md:px-10 lg:px-48 fixed top-0 z-50 px-4  `}>
         <Link to="/" className="w-auto">
           <figure className="h-full py-2">
-            <img className="h-full" src="/public/img/logo/pena_logo.png" alt="Pena" />
+            <img className="h-full" src="/img/logo/pena_logo.png" alt="Pena" />
           </figure>
         </Link>
 
