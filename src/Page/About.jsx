@@ -10,7 +10,7 @@ const About = () => {
           <div className="flex">
             <div className="lg:w-[500px] lg:h-[400px] border bg-primary md:block hidden"></div>
             <div className="lg:w-[400px] lg:h-[400px] w-[300px] h-[300px] bg-secondary absolute lg:left-80 z-0 rounded-full p-5">
-              <img className="rounded-full object-fill w-full h-full" src="/public/img/logo/pena_logo.png " alt="" />
+              <img className="rounded-full object-fill w-full h-full" src="/img/logo/pena_logo.png " alt="" />
             </div>
           </div>
 
